@@ -68,7 +68,7 @@
                         <type>Button</type>
                         <text>Play</text>
                         <tooltip></tooltip>
-                        <initial-visibility>Invisible</initial-visibility>
+                        <initial-visibility>Visible</initial-visibility>
                         <enabled>Yes</enabled>
                         <auto-font-size>Yes</auto-font-size>
                         <id-optional></id-optional>
